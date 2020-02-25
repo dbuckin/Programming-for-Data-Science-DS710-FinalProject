@@ -6,9 +6,9 @@ I used python to extract, format and parse the relevant tweet data. I also perfo
 
 After loading the parsed data into R, I ran two statistical analyses on the data showing that there appeared to be more buzz regarding Daisy Ridley as compared with Mark Hamill.
 
+
+
 For a more detailed walkthrough my code and process, please read below.
-
-
 
 In PYTHON:
 
